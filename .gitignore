@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+### JetBrains
+
+# User-specific stuff:
+.idea/
+*.iml
